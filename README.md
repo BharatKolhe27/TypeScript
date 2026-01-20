@@ -35,4 +35,13 @@ type TaskFormProps = {
 - **TaskForm** – handles adding new tasks  
 - **TaskList** – displays all tasks  
 - **TaskItem** – represents a single task with toggle and delete  
-- **App** – manages application state and logic  
+
+
+
+## What I Learned
+
+TypeScript basic types (string, number, boolean)
+- How to create interfaces
+- How to create type aliases
+- Using props with TypeScript in React components
+- Structuring a small React application with multiple components
